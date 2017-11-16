@@ -8,8 +8,9 @@
   - html_safe presence;
   - logic in templated;
 
-* N+1 queries
-* object(that is nil).call
+* Code safety:
+  - N+1 queries;
+  - object(that is nil).call;
 
 * Semantic naming:
   - classes/modules;
