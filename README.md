@@ -2,11 +2,11 @@
 
 * DB migration safety:
   - rollback ability;
-  - index missed / extra intex;
+  - index missed / extra index;
   
 * Templates:
   - html_safe presence;
-  - logic in templated;
+  - logic in templates;
 
 * Code safety:
   - N+1 queries;
