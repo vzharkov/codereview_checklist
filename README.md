@@ -10,3 +10,11 @@
 
 * N+1 queries
 * object(that is nil).call
+
+* Semantic naming:
+  - classes/modules;
+  - variables/constants;
+  
+* Code style:
+  - simplisity;
+  - domain logic design;
