@@ -19,3 +19,6 @@
 * Code style:
   - simplisity;
   - domain logic design;
+
+# After code review hook:
+  - Check ability to apply lazy refactoring for the feature. (create external issue to fix technical debt in future if it possible and not critical)
