@@ -8,6 +8,9 @@
 * DB migration safety:
   - rollback ability;
   - index missed / extra index;
+  - look for possible table locks;
+  - quote time needed for migration;
+  - move data migration to better place(rake task/ seeds) if it possible;
   
 * Templates:
   - html_safe presence;
