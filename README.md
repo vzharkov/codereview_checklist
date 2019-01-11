@@ -19,6 +19,7 @@
 * Code safety:
   - N+1 queries;
   - object(that is nil).call;
+  - SQL-ingection ability in scopes and custom queries;
 
 * Semantic naming:
   - classes/modules;
