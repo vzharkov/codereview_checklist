@@ -37,6 +37,16 @@
 * Production safety:
   - deploy plan and it's safety;
   - what related mobules can be corrupted.
+  
+* Unit tests:
+  - tests covers all needed classes and cases;
+  - each unit test covers only class responsibility;
+  - rational "black-box" strategy (it means that sometimes "white-box" needs);
+  - important to test both positive/negative and boundary(edge) cases.
+  
+* Feature/system tests:
+  - only needed test cases;
+  - be careful with performance.
 
 # After code review hook:
   - Read all review comments before click "Submit review" btn.
